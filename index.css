@@ -5,8 +5,11 @@ h1 {
   }
 .p2{text-align: center}
 ul{
-  float: right;
+  float: center;
 }
 body{
-  background-color: grey;
+  background-color: lightgrey);
+}
+img{
+  margin: 10px;
 }
